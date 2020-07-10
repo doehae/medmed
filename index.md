@@ -1,10 +1,7 @@
 <html>
 <title>(Med)²</title>
 <head>
-<link rel="stylesheet" href="styles.css">
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
-</style>
+<link rel="stylesheet" href="https://github.com/doehae/medmed/blob/master/styles.css">
  
 <center><img src="https://github.com/doehae/medmed/blob/master/header.PNG"></center>
 
