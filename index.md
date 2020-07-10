@@ -261,8 +261,6 @@ Takustr. 39
 <br />
 <a name="kontakt"><h2>Kontakt</h2></a>
 <br />
-IBI @ HU
-Berlin
 <p style="margin-left: 2.5em;padding: 0 7em 30em 0;border-width: 0px; border-color: black; border-style:solid;"></p>
 
 </div>
