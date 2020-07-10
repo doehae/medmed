@@ -7,53 +7,6 @@
 </head>
 <body>
 
-<map name="ubermap">
-  <area shape="rect" coords="0,0,137,53" alt="Über" href="#uber">
-  <area shape="rect" coords="137,6,275,59" alt="Programm" href="#programm">
-  <area shape="rect" coords="275,6,415,59" alt="Anmeldung" href="#anmeldung">  
-  <area shape="rect" coords="415,6,558,59" alt="Tagungsort" href="#tagungsort">
-</map>
-<map name="progmap">
-  <area shape="rect" coords="0,0,137,53" alt="Über" href="#uber">
-  <area shape="rect" coords="137,6,275,59" alt="Programm" href="#programm">
-  <area shape="rect" coords="275,6,415,59" alt="Anmeldung" href="#anmeldung">  
-  <area shape="rect" coords="415,6,558,59" alt="Tagungsort" href="#tagungsort">
-</map>
-<map name="anmelmap">
-  <area shape="rect" coords="0,0,137,53" alt="Über" href="#uber">
-  <area shape="rect" coords="137,6,275,59" alt="Programm" href="#programm">
-  <area shape="rect" coords="275,6,415,59" alt="Anmeldung" href="#anmeldung">
-  <area shape="rect" coords="415,6,558,59" alt="Tagungsort" href="#tagungsort">
-</map>
-<map name="ortmap">
-  <area shape="rect" coords="0,0,137,53" alt="Über" href="#uber">
-  <area shape="rect" coords="137,6,275,59" alt="Programm" href="#programm">
-  <area shape="rect" coords="275,6,415,59" alt="Anmeldung" href="#anmeldung">  
-  <area shape="rect" coords="415,6,558,59" alt="Tagungsort" href="#tagungsort">
-</map>
-<map name="kontaktmap">
-  <area shape="rect" coords="0,0,137,53" alt="Über" href="#uber">
-  <area shape="rect" coords="137,6,275,59" alt="Programm" href="#programm">
-  <area shape="rect" coords="275,6,415,59" alt="Anmeldung" href="#anmeldung">
-  <area shape="rect" coords="415,6,558,59" alt="Tagungsort" href="#tagungsort">
-  <area shape="rect" coords="558,6,654,59" alt="Kontakt" href="#kontakt">
-</map>
-
-<div id="over" class="outer">
-		
-<div class="links">
-<center><table>
-<tr>
-<td><div><a href="#uber2"><img src="uber11.png" width="135"><b><img src="uber.png" usemap="#ubermap"</b></a></td></div>
-<td><div><a href="#programm2"><img src="programm11.png" width="135"><b><img src="programm.png" usemap="#progmap"></b></a></td></div>
-<td><div><a href="#anmeldung2"><img src="anmeldung11.png" width="135"><b><img src="anmeldung.png" usemap="#anmelmap"></b></a></td></div>
-<td><div><a href="#tagungsort2"><img src="tagungsort11.png" width="135"><b><img src="tagungsort.png" usemap="#ortmap"></b></a></td></div>
-<td><div><a href="#kontakt2"><img src="kontakt11.png" width="135"><b><img src="kontakt.png" usemap="#kontaktmap"></b></a></td></div>
-</tr>
-			</table></center>
-		</div>
-</div>
-
 <div class="text">
 
 <a name="uber"><h2>Über med²</h2></a>
@@ -215,11 +168,7 @@ Laura
 <br />
 <a name="tagungsort"><h2>Tagungsort</h2></a>
 <br />
-Seminaris CampusHotel
-<br />
-Takustr. 39
-<br />
-14195 Berlin
+Event Centre
 <br />
 <br />
 <hr />
