@@ -1,6 +1,6 @@
 <html>
 <head>
-<base href="/medmed/">
+<base href="/medmed/docs">
 <link rel="stylesheet" href="styles.css">
 <center><img src="header.PNG"></center>
 
