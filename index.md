@@ -1,5 +1,4 @@
 <html>
-<title>(Med)²</title>
 <head>
 <link rel="stylesheet" href="https://github.com/doehae/medmed/blob/master/styles.css">
  
@@ -54,37 +53,6 @@
 			</table></center>
 		</div>
 </div>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-startList = function() {
-	var sfEls = document.getElementById("over");
-	for (var i=0; i<sfEls.length; i++) {
-		sfEls[i].onmouseover=function() {
-			//first remove all existing classes of .over
-			for (var j=0; j<sfEls.length; j++){
-				sfEls[j].className=sfEls[j].className.replace(new RegExp(" over\\b"), "");
-			}
-				this.className+=" over";// now add class
-		}
-	}
-}
-// addLoadEvent 
-function addLoadEvent(func) {
-  var oldonload = window.onload;
-  if (typeof window.onload != 'function') {
-    window.onload = func;
-  } else {
-    window.onload = function() {
-      if (oldonload) {
-        oldonload();
-      }
-      func();
-    }
-  }
-}
-addLoadEvent(startList);
-//--><!]]>
-</script>
 
 <div class="text">
 
