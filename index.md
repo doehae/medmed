@@ -22,62 +22,6 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 <br />
 <a name="programm"><h2>Programm</h2></a>
 <br />
-<h3>5.6.2021</h3>
-<br />
-<u>13:30 - 14:30</u>
-<br />
-Dr. Quacksalber: Fake News schaden der Gesundheit!
-<br />
-<br />
-<u>14:30 – 15:30</u>
-<br />
-Bayer AG
-<br />
-Werner Baumann , CEO
-<br />
-Wie ist der aktuelle Coronastand und gedenken die Wissenschaftler, Mediziner, WHO und Pharmazeutika diese einzudämmen?
-<br />
-<br />
-<u>
-15:30–16:30</u>
-<br />
-Kaffeepause
-<br />
-Rice Powell, Fresenius Medical Care
-<br />
-„Digitalisierung: So viel wie nötig, so wenig wie möglich in der Corona-Krise?“
-<br />
-<br />
-<u>
-16:30 – 17:00</u>
-<br />
-Vorstellung der Corona-App
-<br />
-<br />
-<u>
-17:00–18:00</u>
-<br />
-Besser Kommunizieren
-<br />
-Kenichiro Yoshida, CEO Sony Corporation
-<br />
-Wie wir versuchen wollen, in dieser Zeit Kontakt zu Menschen aufzunehmen
-<br />
-<br />
-<u>
-18:00 – 21:00</u>
-<br />
-Medien-Training & Austausch Gruppen 1-6
-<br />
-<br />
-<u>
-21:00-22:00</u>
-<br />
-Abschlussgruß
-<br />
-Volkmar Denner, CEO Bosch
-<br />
-<br />
 <h3>6.6.2021</h3>
 <br />
 <u>14:00 – 14:30</u>
@@ -96,7 +40,7 @@ Umgang der Medien mit der Corona-Krise
 <br />
 <br />
 <u>
-﻿15:30–16:15</u>
+15:30–16:15</u>
 <br />
 Kaffee-Pause
 <br />
