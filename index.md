@@ -205,7 +205,7 @@ Laura
 <br /><br />
 <label>Anmerkungen</label>
 <br />
-<textarea rows="5" class="textarea"></textarea>
+<input type="text" />
 <br /><br />
 <button class="button">Absenden</button>
 </form>
