@@ -1,8 +1,8 @@
 <html>
 <head>
-<link rel="stylesheet" href="https://github.com/doehae/medmed/blob/master/styles.css">
- 
-<center><img src="https://github.com/doehae/medmed/blob/master/header.PNG"></center>
+<base href="/medmed/">
+<link rel="stylesheet" href="styles.css">
+<center><img src="header.PNG"></center>
 
 </head>
 <body>
