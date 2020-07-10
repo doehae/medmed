@@ -6,7 +6,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
 </style>
  
-<center><img src="header.png"></center>
+<center><img src="https://github.com/doehae/medmed/blob/master/header.PNG"></center>
 
 </head>
 <body>
