@@ -1,7 +1,7 @@
 <html>
 <head>
 <base href="/medmed/docs">
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="docs/styles.css">
 <center><img src="docs/header.PNG"></center>
 
 </head>
