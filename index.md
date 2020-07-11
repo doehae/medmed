@@ -2,7 +2,7 @@
 <head>
 <base href="/medmed/docs">
 <link rel="stylesheet" href="styles.css">
-<center><img src="header.PNG"></center>
+<center><img src="docs/header.PNG"></center>
 
 </head>
 <body>
